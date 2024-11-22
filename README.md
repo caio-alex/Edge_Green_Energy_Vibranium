@@ -26,8 +26,8 @@ O projeto “Vibranium” explora uma solução inovadora e sustentável para a 
 
 ## Componentes Físicos
 - ESP32
-- Diodo
-- Capacitor
+- Diodo - 1n4007
+- Capacitor 47µF 16 volts
 - 15 piezoeletricos 27mm
 - 1 protoboard
 
