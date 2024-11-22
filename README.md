@@ -51,7 +51,6 @@ Nosso sistema utiliza 15 sensores piezoelétricos de 27mm, organizados em 3 file
   
 3. Configuração do ESP32
 - Conecte o ESP32 ao circuito, garantindo uma conexão segura entre o capacitor e o pino de entrada analógica do Esp32.
-- Certifique-se de que o ESP32 está alimentado e configurado para se conectar à sua rede Wi-Fi.
   
 4. Configuração do Protocolo MQTT
 - Insira o endereço do broker MQTT e a porta do ESP32.
